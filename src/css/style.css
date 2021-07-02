@@ -89,7 +89,7 @@ body {
 }
 
 .loader-icon {
-    background-image: url(../images/Rhombus.gif );
+    background-image: url(../img/Rhombus.gif );
     background-size: contain;
     height: 40px;
     width: 40px;
